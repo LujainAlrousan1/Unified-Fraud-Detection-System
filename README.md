@@ -1,31 +1,31 @@
-# 🚀 نظام كشف الاحتيال المالي والأمني
+# 🚀 Financial and Security Fraud Detection System  
 
-![Unified Fraud Detection System]("C:\Users\Lolop\OneDrive - University Of Jordan\Pictures\Screenshots\webpage.png")  
+## 📌 Overview  
+A system that integrates financial fraud analysis and security threat detection using:  
+- **Deep Learning (TensorFlow/Keras)** for financial fraud detection  
+- **Machine Learning (Scikit-learn, Random Forest)** for cybersecurity threat detection  
 
-## 📌 نظرة عامة
-نظام يدمج بين تحليل المعاملات المالية المشبوهة واكتشاف التهديدات الأمنية باستخدام:
-- TensorFlow للتحليل المالي
-- Scikit-learn للكشف عن الأنشطة الضارة
+## ⚡ Quick Start  
 
-## ⚡ كيفية البدء السريع
-
-### 1. تثبيت المتطلبات
+### 1. Install Requirements  
 ```bash
 pip install -r requirements.txt
 
-تشغيل النظام
+
+Run the System
 '''bash
 python src/app.py
 
-📁 محتويات المشروع
-- مجلد `data/`: لحفظ ملفات البيانات
-- مجلد `src/`: للأكواد البرمجية
-- مجلد `models/`: للنماذج المستخدمة
-- ملف `requirements.txt`:للمكتبات المطلوبة
+📁 Project Structure
+data/: Stores data files
 
+src/: Contains source code
 
- 📞 الدعم
-لأي استفسارات:
+models/: Holds trained models
 
-📧 البريد: lujainalrousan2@gmail.com
+requirements.txt: Lists required libraries
 
+📞 Support
+For inquiries:
+
+📧 Email: lujainalrousan2@gmail.com
